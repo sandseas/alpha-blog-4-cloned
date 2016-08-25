@@ -1,1 +1,1 @@
-July 22 - first push to github
+8-25 - working copy - first push to github
